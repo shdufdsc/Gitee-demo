@@ -26,4 +26,4 @@ hello xfd ! hello git!
 hello xfd ! hello git!
 hello xfd ! hello git!
 hello xfd ! hello git! master test
-hello xfd ! hello git!
+hello xfd ! hello git! hot-fix test
